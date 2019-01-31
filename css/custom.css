@@ -1,0 +1,37 @@
+.modal-darkbg {
+    background-color: rgba(0, 0, 0, 0.66)!important;
+
+}
+
+
+.hyphens {
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+}
+
+
+   @media only screen and (min-width: 450px) {
+    .wdth400 {
+         min-width: 400px;
+         max-width: 500px;
+        }
+}
+
+@media only screen and (min-width: 900px) {
+    .wdth400 {
+         min-width: 400px;
+        }
+}
+
+
+
+.factbox .mb-3 {
+    margin-top: 0.655rem;
+    margin-bottom: 0.655rem!important;
+}
+
+
+
+

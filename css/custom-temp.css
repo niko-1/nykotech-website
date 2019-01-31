@@ -1,0 +1,5 @@
+@media only screen and (min-width: 900px) {
+    .wdth400 {
+         min-width: 400px;
+        }
+}
